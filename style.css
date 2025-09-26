@@ -1,0 +1,41 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #9CBF4E;
+  color : #6F8C42; 
+
+}
+
+
+h1 {
+  color: #6F8C42;
+}
+
+h2 {
+  color: #6F8C42;
+}
+
+/* Nav bar */
+.navbar {
+  background-color: #9163F2;
+  overflow: hidden;
+  text-align: center;
+}
+
+.navbar a {
+  color: #A480F2;
+  padding: 14px 20px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.navbar a:hover {
+  background-color: #F20CA2;
+}
+
+/* Page content */
+.content {
+  padding: 20px;
+}
